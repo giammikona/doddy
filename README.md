@@ -30,6 +30,7 @@ un contactBook costituisce la rubrica del programma. Il costruttore presenta:
  - numberPointer:Int
  - genderPointer: Int
  - separator: String _il separator del file .csv_
+
 Il contact book di default cicla sul .csv e costruisce la rubrica che poi può essere manipolata attraverso i metodi
  - add(customer: customer) _aggiungge un customer alla rubrica_
  - remove(customer: customer) _rimuovo un customer dalla rubrica_
