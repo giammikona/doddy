@@ -36,7 +36,7 @@ Il contact book di default cicla sul .csv e costruisce la rubrica che poi può e
  - remove(customer: customer) _rimuovo un customer dalla rubrica_
 è possibile inoltre accedere ai customer tramite i metodi
  - get(index: Ind) _restituisce un il customer selezionato_
- -get_cont_by_gender(gender: String) _restituisce un contactBook composto da customer che rispettano il parametro indicato_
+ - get_cont_by_gender(gender: String) _restituisce un contactBook composto da customer che rispettano il parametro indicato_
  
  ### message
  costituisce l'elemento fondamentale del messageBook, costituisce il singolo messaggio. Di default viene generato da un file .txt
